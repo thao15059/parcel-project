@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.container h1 {
+  color: #5533df;
+  font-size: 3rem;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */
